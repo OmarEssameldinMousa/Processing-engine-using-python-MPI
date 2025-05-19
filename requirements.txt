@@ -1,0 +1,7 @@
+streamlit
+mpi4py
+numpy
+pandas
+matplotlib
+opencv-python-headless
+scikit-learn
